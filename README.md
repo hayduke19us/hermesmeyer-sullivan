@@ -24,3 +24,18 @@ How do they find out about things?
 ---
 
 Moved to a brain storming map, SEE PanamaCityTours.pdf
+
+
+- [x] Brainstorm I
+- [ ] Setup Development Environment
+  - [ ] Editer
+  - [ ] Multiplexer
+  - [ ] Dotfiles
+  - [ ] Language
+  - [ ] Framework
+  - [ ] CI
+  - [ ] Deployment Strategy
+  - [ ] Data Storage
+  - [ ] Logs
+  - [ ] Unit and BDD Tests
+- [ ] Landing Page
